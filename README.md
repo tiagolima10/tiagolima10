@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Tiago Lima and I am very excited to welcome you here.
+## My name is Tiago Lima and I'm very excited to welcome you here.
 
 
 Currently, I'm studying systems development at Senai and I'm prepared to embrace an opportunity. 
