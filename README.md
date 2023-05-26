@@ -5,7 +5,7 @@
 Currently, I'm studying systems development at Senai and I'm prepared to embrace an opportunity. 
 I have dedicated myself to the study of Front-end and Back-end, perfecting myself in HTML, CSS, Java, Javascript and Python.
 
-## Ferramentas e Tecnologias
+## Tools and Technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
@@ -13,7 +13,7 @@ I have dedicated myself to the study of Front-end and Back-end, perfecting mysel
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
-## Contatos:
+## Contacts:
 
 <div>
 <a href = "tiagoanunc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
