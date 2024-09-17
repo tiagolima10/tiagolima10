@@ -3,7 +3,7 @@
 
 
 Currently, I'm studying systems development at Senai and I'm prepared to embrace an opportunity. 
-I have dedicated myself to the study of Front-end and Back-end, perfecting myself in HTML, CSS, Java, Javascript, Vue.js, Laravel, PHP and Python.
+I have dedicated myself to the study of Front-end and Back-end, perfecting myself in HTML, CSS, Javascript, Laravel, Symfony and mostly PHP.
 
 ## Tools and Technologies
 
